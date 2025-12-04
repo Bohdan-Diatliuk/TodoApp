@@ -30,7 +30,7 @@ Cypress 13.13.0 - End-to-end testing framework
 ## Getting Started
 
 Clone the repository:
-  git clone https://github.com/your-username/MyBike-landing_page.git
+  git clone https://github.com/your-username/TodoApp.git
   cd MyBike-landing_page
 
 Install dependensies
