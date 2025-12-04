@@ -33,11 +33,14 @@ Clone the repository:
   cd MyBike-landing_page
 
 Install dependensies
+  ```
   npm install
   # or
   yarn install
-
+  ```
 Run the project locally:
+  ```
   npm start
   # or
   yarn start
+  ```
