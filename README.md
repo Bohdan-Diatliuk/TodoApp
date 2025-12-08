@@ -4,7 +4,7 @@ soon
 
 ## Live Demo
 
-Experience the live website: soon
+Experience the live website: [TodoApp](https://bohdan-diatliuk.github.io/TodoApp/)
 
 ## Technologies Used
 
