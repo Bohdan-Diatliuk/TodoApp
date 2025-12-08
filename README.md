@@ -1,9 +1,56 @@
-# React TypeScript Starter Pack
+# TodoApp
 
-To use this template click `Use this template`
+soon
 
-### Available Scripts
+## Live Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+Experience the live website: [TodoApp](https://bohdan-diatliuk.github.io/TodoApp/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies Used
+
+## Core
+
+React 18.3.1 - A JavaScript library for building user interfaces
+
+TypeScript 5.2.2 - Typed superset of JavaScript for better code quality
+
+Vite 5.3.1 - Next-generation frontend build tool for faster development
+
+## UI / UX
+
+Bulma 1.0.1 - Modern CSS framework for responsive design
+
+SCSS/Sass 1.77.8 - CSS preprocessor for enhanced styling capabilities
+
+Font Awesome 6.5.2 - Icon library for beautiful UI elements
+
+## Development & Deployment
+
+ESLint - Code linting and quality assurance
+
+Prettier - Code formatting
+
+Stylelint - CSS/SCSS linting
+
+Cypress 13.13.0 - End-to-end testing framework
+
+## Getting Started
+
+Clone the repository:
+  ```
+  git clone https://github.com/your-username/TodoApp.git
+  cd TodoApp
+  ```
+
+Install dependensies
+  ```
+  npm install
+  # or
+  yarn install
+  ```
+Run the project locally:
+  ```
+  npm start
+  # or
+  yarn start
+  ```
