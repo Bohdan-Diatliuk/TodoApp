@@ -1,6 +1,6 @@
 # TodoApp
 
-soon
+This is a simple and convenient application for managing daily tasks, created using React and TypeScript.
 
 ## Live Demo
 
@@ -10,19 +10,17 @@ Experience the live website: [TodoApp](https://bohdan-diatliuk.github.io/TodoApp
 
 ## Core
 
-React 18.3.1 - A JavaScript library for building user interfaces
+React - A JavaScript library for building user interfaces
 
-TypeScript 5.2.2 - Typed superset of JavaScript for better code quality
+TypeScript - Typed superset of JavaScript for better code quality
 
-Vite 5.3.1 - Next-generation frontend build tool for faster development
+Vite - Next-generation frontend build tool for faster development
 
 ## UI / UX
 
-Bulma 1.0.1 - Modern CSS framework for responsive design
+Bulma - Modern CSS framework for responsive design
 
-SCSS/Sass 1.77.8 - CSS preprocessor for enhanced styling capabilities
-
-Font Awesome 6.5.2 - Icon library for beautiful UI elements
+SCSS/Sass - CSS preprocessor for enhanced styling capabilities
 
 ## Development & Deployment
 
@@ -32,7 +30,7 @@ Prettier - Code formatting
 
 Stylelint - CSS/SCSS linting
 
-Cypress 13.13.0 - End-to-end testing framework
+Cypress - End-to-end testing framework
 
 ## Getting Started
 
